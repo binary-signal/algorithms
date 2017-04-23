@@ -2,6 +2,6 @@
 
 ## algorithms implemented so far
 * quicksort  
-* median(randomised)  
-* median(quicksort)  
+* randomised median (using quicksort)  
+* median (using quicksort)  
 * coupon collector 
